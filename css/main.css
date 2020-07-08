@@ -1,7 +1,7 @@
 body {
   background: rgb(212,175,55);
   background: linear-gradient(90deg, rgba(212,175,55,1) 0%, rgba(192,192,192,1) 100%);
-  font-family: "Bitter", serif;
+  font-family: "Bitter", sans-serif;
 }
 
 * {
