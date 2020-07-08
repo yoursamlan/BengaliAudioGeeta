@@ -12,7 +12,7 @@ new Vue({
         {
           name: "অর্জুন বিষাদ-যোগ",
           artist: "প্রথম অধ্যায়",
-          cover: "https://github.com/yoursamlan/projX/blob/master/1.PNG?raw=true",
+          cover: "./img/1.PNG",
           source: "./mp3/1.mp3",
           favorited: false
         },
